@@ -25,6 +25,26 @@ https://github.com/user-attachments/assets/02f75e53-c81a-4bd3-9d81-409d93d1fb94
 
 ---
 
+Great! Here’s how you can include the **Medium article link** in your `README.md` to point users to your drawing basics guide.
+
+Let’s assume your Medium post is titled:
+
+🔗 **"Drawing Basics in Jetpack Compose — Canvas, Path, and DrawScope Made Simple"**
+and the link is: `https://medium.com/@yourusername/drawing-basics-in-jetpack-compose-abc123`
+
+You can include it in the README in a dedicated section like this:
+
+---
+
+### 📚 Related Medium Article
+
+🖊️ **Want to understand the fundamentals before diving into this repo?**
+Check out the accompanying Medium post that explains the **drawing basics** in Jetpack Compose step-by-step:
+
+👉 [Drawing Basics in Jetpack Compose — Canvas, Path, and DrawScope Made Simple](https://medium.com/@shoaibkhalid65/path-api-in-jetpack-compose-draw-animate-and-mesmerize-60e27e42cfca))
+
+
+
 ## 🧑‍💻 Technologies Used
 
 - **Jetpack Compose**
@@ -33,16 +53,6 @@ https://github.com/user-attachments/assets/02f75e53-c81a-4bd3-9d81-409d93d1fb94
 - **Kotlin Coroutines & Animatable**
 - **SVG to Path Conversion**
 - **Custom Composables**
-
----
-
-
-## 💡 Learning Outcomes
-
-* Learn how the **Path API** works under the hood in Jetpack Compose
-* Discover how to **animate paths** smoothly using Compose’s animation toolkit
-* Use real-world **SVG paths** from design tools or vector assets
-* Create **visually stunning effects** with gradients and path effects
 
 ---
 
