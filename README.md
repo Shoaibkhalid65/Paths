@@ -40,7 +40,6 @@ Check out the accompanying Medium post that explains the **drawing basics** in J
 - **Jetpack Compose**
 - **Canvas & DrawScope APIs**
 - **Path & PathEffect**
-- **Kotlin Coroutines & Animatable**
 - **SVG to Path Conversion**
 - **Custom Composables**
 
